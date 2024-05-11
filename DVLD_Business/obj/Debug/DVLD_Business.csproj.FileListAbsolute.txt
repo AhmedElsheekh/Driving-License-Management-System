@@ -1,0 +1,9 @@
+D:\MyRealProjects\ReDVLDSystem\DVLD_Business\bin\Debug\DVLD_Business.dll
+D:\MyRealProjects\ReDVLDSystem\DVLD_Business\bin\Debug\DVLD_Business.pdb
+D:\MyRealProjects\ReDVLDSystem\DVLD_Business\bin\Debug\DVLD_DataAccess.dll
+D:\MyRealProjects\ReDVLDSystem\DVLD_Business\bin\Debug\DVLD_DataAccess.pdb
+D:\MyRealProjects\ReDVLDSystem\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+D:\MyRealProjects\ReDVLDSystem\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\MyRealProjects\ReDVLDSystem\DVLD_Business\obj\Debug\DVLD_Business.csproj.CopyComplete
+D:\MyRealProjects\ReDVLDSystem\DVLD_Business\obj\Debug\DVLD_Business.dll
+D:\MyRealProjects\ReDVLDSystem\DVLD_Business\obj\Debug\DVLD_Business.pdb
